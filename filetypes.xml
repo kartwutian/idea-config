@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="card-iquiry-sheet-number.vue" type="Vue.js" />
       <mapping pattern="query-bar" type="Vue.js" />
     </extensionMap>
   </component>
